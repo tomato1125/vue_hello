@@ -13,12 +13,26 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.26.13",
+    "browser-sync-webpack-plugin": "^2.0.1",
     "cross-env": "^7.0.2",
     "laravel-mix": "^4.1.4",
+    "node-sass": "^4.14.1",
+    "resolve-url-loader": "^3.1.0",
+    "sass-loader": "^7.3.1",
     "vue": "^2.6.12",
     "vue-template-compiler": "^2.6.12"
   },
   "main": "webpack.mix.js",
   "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomato1125/vue_hello.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomato1125/vue_hello/issues"
+  },
+  "homepage": "https://github.com/tomato1125/vue_hello#readme",
   "description": ""
 }
