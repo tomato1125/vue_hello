@@ -86,7 +86,6 @@
 /************************************************************************/
 /******/ ({
 
-<<<<<<< Updated upstream
 /***/ "./node_modules/process/browser.js":
 /*!*****************************************!*\
   !*** ./node_modules/process/browser.js ***!
@@ -13375,14 +13374,11 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-=======
->>>>>>> Stashed changes
 /***/ "./resources/js/home.js":
 /*!******************************!*\
   !*** ./resources/js/home.js ***!
   \******************************/
 /*! no exports provided */
-<<<<<<< Updated upstream
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -13400,11 +13396,6 @@ new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
 
   }
 });
-=======
-/***/ (function(module, exports) {
-
-throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nError: ENOENT: no such file or directory, open '/Users/naokiyoshida/projects/vue_hello/resources/js/home.js'");
->>>>>>> Stashed changes
 
 /***/ }),
 
