@@ -86,6 +86,7 @@
 /************************************************************************/
 /******/ ({
 
+<<<<<<< Updated upstream
 /***/ "./node_modules/process/browser.js":
 /*!*****************************************!*\
   !*** ./node_modules/process/browser.js ***!
@@ -13691,11 +13692,14 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+=======
+>>>>>>> Stashed changes
 /***/ "./resources/js/quiz.js":
 /*!******************************!*\
   !*** ./resources/js/quiz.js ***!
   \******************************/
 /*! no exports provided */
+<<<<<<< Updated upstream
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -13715,6 +13719,11 @@ new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
     app: _components_Quiz__WEBPACK_IMPORTED_MODULE_1__["default"]
   }
 });
+=======
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nError: ENOENT: no such file or directory, open '/Users/naokiyoshida/projects/vue_hello/resources/js/quiz.js'");
+>>>>>>> Stashed changes
 
 /***/ }),
 
